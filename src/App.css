@@ -1,0 +1,19 @@
+.App{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+  background-color: grey;
+}
+
+.Create{
+  color: white;
+  /* background-color: antiquewhite; */
+}
+
+.read {
+  color:white;
+  font-weight: bolder;
+  display: flexbox;
+}
